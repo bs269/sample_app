@@ -4,7 +4,7 @@ describe PagesController do
   render_views
  
   before(:each) do
-    @base_title = "Ruby on Rails |"
+    @base_title = "Ruby on Rails Tutorial |"
   end
   
   describe "GET 'home'" do
