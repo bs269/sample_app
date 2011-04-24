@@ -1,0 +1,57 @@
+body
+{
+    font-family: Arial;
+}
+a
+{
+    color: teal;
+    text-decoration: none;
+}
+h1 { font-size: 2.5em; color: #000; }
+.container
+{
+    width: 800px;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+}
+header img
+{
+    display: inline-block;
+}
+nav {
+    display: inline-block;
+    vertical-align: top;
+}
+nav ul li {
+    display: inline-block;
+    font-size: 1.2em;
+    padding: 10px;
+}
+a.signup_button {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  width: 190px;
+  color: #fff;
+  background: #006400;
+  font-size: 150%;
+  font-weight: bold;
+  padding: 20px;
+}
+footer
+{
+    text-align: center;
+    margin-top: 20px;
+}
+footer ul
+{
+    list-style-type: none;
+}
+footer ul li
+{
+    display: inline-block;
+    padding: 20px;
+}
